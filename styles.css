@@ -428,6 +428,12 @@ h3 {
   border-block: 1px solid #badfeb;
 }
 
+.split-section .eyebrow {
+  margin-bottom: 22px;
+  padding: 6px 10px;
+  font-size: 0.72rem;
+}
+
 .tariff-copy p {
   margin-top: 18px;
   color: #334155;
