@@ -21,34 +21,6 @@ Website aktif:
 
 [https://jasasuruhjepara.isacool.my.id/](https://jasasuruhjepara.isacool.my.id/)
 
-## Services
-
-| Layanan | Harga Mulai | Contoh |
-|---|---:|---|
-| Suruh Antar | Rp10.000 | Dokumen, barang kecil, titipan ringan |
-| Suruh Ambil | Rp10.000 | Paket, laundry, barang tertinggal |
-| Suruh Beli | Rp12.000 | Makanan, ATK, obat bebas, kebutuhan rumah |
-| Suruh Antre | Rp15.000 | Antre makanan, ambil nomor, menunggu pesanan |
-| Suruh Cari | Rp15.000 | Cari barang, cek toko, survei lokasi ringan |
-| Suruh Apa Aja | Rp15.000 | Permintaan khusus yang aman dan legal |
-
-## Pricing Rules
-
-Struktur tarif dibuat sederhana:
-
-```text
-Harga = biaya dasar + jarak + waktu tunggu + tambahan aktual
-```
-
-Komponen tambahan:
-
-- Tambahan jarak: `Rp3.000/km`
-- Menunggu: `Rp5.000/20 menit`
-- Lokasi tambahan: `Rp3.000/titik`
-- Biaya aktual: sesuai struk atau kesepakatan
-
-Harga final tetap dikonfirmasi melalui WhatsApp sebelum pekerjaan dilakukan.
-
 ## Tech Stack
 
 - HTML statis
