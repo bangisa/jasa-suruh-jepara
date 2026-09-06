@@ -5,8 +5,7 @@ Landing page statis untuk layanan bantuan harian lokal di Jepara.
 **Apa pun urusannya, tinggal suruh.**
 
 [![Website](https://img.shields.io/badge/Live%20Website-jasasuruhjepara.isacool.my.id-d7fb4f?style=for-the-badge&labelColor=111827)](https://jasasuruhjepara.isacool.my.id/)
-[![Static](https://img.shields.io/badge/Deployment-Static%20HTML-38bdf8?style=for-the-badge&labelColor=111827)](#deployment)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0895--1403--2726-ff6b4a?style=for-the-badge&labelColor=111827)](https://wa.me/6289514032726)
+[![Static](https://img.shields.io/badge/Static-HTML%20%2B%20CSS-38bdf8?style=for-the-badge&labelColor=111827)](#tech-stack)
 
 ![Poster Jasa Suruh Jepara](poster-jasa-suruh-jepara-v2.png)
 
@@ -21,10 +20,6 @@ Repo ini berisi versi landing page yang dibuat **super ringan**: hanya HTML, CSS
 Website aktif:
 
 [https://jasasuruhjepara.isacool.my.id/](https://jasasuruhjepara.isacool.my.id/)
-
-CTA utama diarahkan ke WhatsApp:
-
-[https://wa.me/6289514032726](https://wa.me/6289514032726)
 
 ## Services
 
@@ -88,49 +83,3 @@ Lalu buka:
 ```text
 http://localhost:8080
 ```
-
-## Deployment
-
-Production saat ini memakai Apache di VPS.
-
-Target folder:
-
-```bash
-/var/www/jasasuruhjepara
-```
-
-Contoh update dari VPS:
-
-```bash
-cd /var/www/jasasuruhjepara
-git pull --ff-only origin main
-```
-
-Contoh Apache virtual host tersedia di:
-
-```text
-apache-jasasuruhjepara.conf
-```
-
-SSL aktif menggunakan Let's Encrypt untuk:
-
-```text
-jasasuruhjepara.isacool.my.id
-```
-
-## Brand Style
-
-Visual identity yang dipakai:
-
-- Warm paper background
-- Subtle grid pattern
-- Thick black outlines
-- Lime, sky blue, dan coral accent
-- Bold modern typography
-- Card-based service layout
-
-## Contact
-
-WhatsApp:
-
-[0895-1403-2726](https://wa.me/6289514032726)
