@@ -7,6 +7,12 @@ Landing page statis untuk layanan bantuan harian lokal di Jepara.
 [![Website](https://img.shields.io/badge/Live%20Website-jasasuruhjepara.isacool.my.id-d7fb4f?style=for-the-badge&labelColor=111827)](https://jasasuruhjepara.isacool.my.id/)
 [![Static](https://img.shields.io/badge/Static-HTML%20%2B%20CSS-38bdf8?style=for-the-badge&labelColor=111827)](#tech-stack)
 
+## Website Preview
+
+![Screenshot Website Jasa Suruh Jepara](screenshot-website.png)
+
+## Poster Preview
+
 ![Poster Jasa Suruh Jepara](poster-jasa-suruh-jepara-v2.png)
 
 ## Overview
@@ -36,6 +42,7 @@ Website aktif:
 ├── index.html
 ├── styles.css
 ├── favicon.svg
+├── screenshot-website.png
 ├── poster-jasa-suruh-jepara-v2.png
 ├── apache-jasasuruhjepara.conf
 ├── nginx-jasasuruhjepara.conf
