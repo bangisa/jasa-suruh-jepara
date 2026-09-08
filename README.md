@@ -55,4 +55,4 @@ http://localhost:8080
 
 Website aktif:
 
-[https://jasasuruhjepara.isacool.my.id/](https://jasasuruhjepara.isacool.my.id/)
+<a href="https://jasasuruhjepara.isacool.my.id/" target="_blank" rel="noopener noreferrer">https://jasasuruhjepara.isacool.my.id/</a>
